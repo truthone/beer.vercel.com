@@ -1,0 +1,1 @@
+export const BEER_API_ENDPOINT = "https://api.sampleapis.com/beers/";
